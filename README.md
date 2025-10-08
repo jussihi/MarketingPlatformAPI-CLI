@@ -1,13 +1,13 @@
 # Install
 
-Run
+## Run
 ```
 python install.py
 ```
 
+# Usage
 
-
-Now enable venv:
+## 1. Enable venv:
 
 Linux:
 ```
@@ -24,7 +24,7 @@ Windows (cmd):
 ..venv/Scripts/activate
 ```
 
-Now you can run the program inside venv:
+## 2. Now you can run the program inside venv:
 ```
 python mp_api_cli.py -h
 ```
